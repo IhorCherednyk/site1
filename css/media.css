@@ -3,6 +3,7 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
 	h1 {font-size: 50px;}
+	.blog-item-wrap .img-wrap {height: 145px;}
 }
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
@@ -15,7 +16,7 @@
 	.copyright {padding-left: 0;margin-top: 20px;}
 	.social{text-align: right;}
 	.social li {text-align: center;}
-
+	.blog-item-wrap .img-wrap {height: 200px;}
 }
 
 /* Small Devices, Tablets */
@@ -40,6 +41,11 @@
 	.logo-wrap {text-align: left;}
 	.footer-comapny .logo span:first-child{font-size: 20px;}
 	.img-wrap {margin-top: 20px;}
+	.blog-item-wrap .img-wrap {height: 150px;}
+	.blog-title {font-size: 14px;}
+	.blog-news h3{font-size: 20px;}
+	.blog-news p {font-size: 12px;}
+	.blog-news {bottom: 0;}
 
 }
 

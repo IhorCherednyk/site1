@@ -45,4 +45,6 @@ jQuery(document).ready(function($) {
 	}
 	$('.maps').on('click', mapClick);
 
+
+	$(".servise-item").equalHeights();
 });
