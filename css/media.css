@@ -1,0 +1,77 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	h1 {font-size: 50px;}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.logo-wrap{text-align: center;}
+	.main-nav{float:none;text-align: center;}
+	.main-nav ul li{float:none; display: inline-block;}
+	h1{text-align: center;}
+	.blog-item-wrap {margin-top: 20px;}
+	h4{text-align: center;margin-top: 30px;}
+	.copyright {padding-left: 0;margin-top: 20px;}
+	.social{text-align: right;}
+	.social li {text-align: center;}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	h1{font-size: 35px;}
+	.about,.servise,.blog,.contact{padding:60px 0 65px;}
+	.main-nav {display: none;}
+	.main-nav ul li {display: block;text-align: center;margin: 0;}
+	.main-nav ul li a{display: inline-block;}
+	.slide {margin-top: 100px;margin-bottom: 100px;}
+	.panel-bottom{min-height: 450px;}
+	.owl-nav > div {top: 60%;}
+	.social {text-align: center;margin-top: 20px;}
+	.footer-comapny {text-align: center;}
+	.copyright{text-align: center;}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.top-section p {font-size: 18px;}
+	.logo span:first-child{font-size: 30px;}
+	.logo-wrap {text-align: left;}
+	.footer-comapny .logo span:first-child{font-size: 20px;}
+	.img-wrap {margin-top: 20px;}
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

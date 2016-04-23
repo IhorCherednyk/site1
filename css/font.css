@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont/opensans-regular-webfont.eot');
+    src: url('../fonts/opensans-regular-webfont/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-regular-webfont/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-regular-webfont/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/opensans-regular-webfont/opensans-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'advent_probold';
+    src: url('../fonts/adventpro-bold-webfont/adventpro-bold-webfont.eot');
+    src: url('../fonts/adventpro-bold-webfont/adventpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/adventpro-bold-webfont/adventpro-bold-webfont.woff2') format('woff2'),
+         url('../fonts/adventpro-bold-webfont/adventpro-bold-webfont.woff') format('woff'),
+         url('../fonts/adventpro-bold-webfont/adventpro-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'advent_promedium';
+    src: url('../fonts/adventpro-medium-webfont/adventpro-medium-webfont.eot');
+    src: url('../fonts/adventpro-medium-webfont/adventpro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/adventpro-medium-webfont/adventpro-medium-webfont.woff2') format('woff2'),
+         url('../fonts/adventpro-medium-webfont/adventpro-medium-webfont.woff') format('woff'),
+         url('../fonts/adventpro-medium-webfont/adventpro-medium-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
